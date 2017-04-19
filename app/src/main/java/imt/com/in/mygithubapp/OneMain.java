@@ -14,5 +14,6 @@ public class OneMain extends AppCompatActivity
         setContentView(R.layout.activity_one_main);
 
         Toast.makeText(OneMain.this, "Ok", Toast.LENGTH_SHORT).show();
+
     }
 }
